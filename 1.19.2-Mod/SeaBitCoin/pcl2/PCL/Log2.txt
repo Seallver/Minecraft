@@ -1,0 +1,149 @@
+[09:47:33.503] [Start] 程序版本：Release 2.7.4 (326)
+[09:47:33.505] [Start] 识别码：4383-7A2B-4FCB-0794
+[09:47:33.505] [Start] 程序路径：D:\azhy\mcModDesign\MyModPack\1.19\SeaBitCoin\pcl2\Plain Craft Launcher 2.exe
+[09:47:33.505] [Start] 系统编码：System.Text.DBCSCodePageEncoding (936, GBK=True)
+[09:47:33.510] [Start] 第一阶段加载用时：110 ms
+[09:47:33.626] [Start] 版本号从 332 降低到 326
+[09:47:33.675] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[09:47:33.676] [Start] 第二阶段加载用时：172 ms
+[09:47:33.685] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[09:47:33.926] [System] 窗口已置顶，位置：(425.333333333333, 276), 830 x 520
+[09:47:33.930] [Animation] 动画线程开始
+[09:47:33.930] [Start] 第三阶段加载用时：63 ms
+[09:47:33.932] [Start] 加载 DLL：Json
+[09:47:33.932] [System] 获取资源：Json
+[09:47:33.941] [Launch] 没有已储存的 Minecraft 文件夹
+[09:47:33.942] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[09:47:33.944] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[09:47:33.956] [Setup] 当前选择的 Minecraft 文件夹：C:\Users\zhy\AppData\Roaming\.minecraft\
+[09:47:33.956] [Launch] Minecraft 文件夹：C:\Users\zhy\AppData\Roaming\.minecraft\
+[09:47:33.957] [Launch] Minecraft 版本无效，没有有效版本
+[09:47:33.963] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[09:47:33.968] [Minecraft] 文件夹列表变更，重载所有版本
+[09:47:34.011] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[09:47:34.015] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[09:47:34.018] [Java] 缓存中有 9 个可用的 Java：
+[09:47:34.019] [Java]  - JRE 8 (8.0.60)：D:\MCLDownload\ext\jre-v64-220420\jre8\bin\
+[09:47:34.019] [Java]  - JRE 8 (8.0.391)：C:\Program Files\Java\jdk-1.8\jre\bin\
+[09:47:34.019] [Java]  - JRE 8 (8.0.391)：C:\Program Files\Java\jre-1.8\bin\
+[09:47:34.019] [Java]  - JDK 17 (17.0.9)：D:\MCreator\jdk\bin\
+[09:47:34.019] [Java]  - JDK 17 (17.0.9)：C:\Users\zhy\.jdks\corretto-17.0.9\bin\
+[09:47:34.019] [Java]  - JDK 17 (17.0.2)：D:\MCLDownload\ext\jre-v64-220420\jdk17\bin\
+[09:47:34.019] [Java]  - JDK 8 (8.0.391)：C:\Program Files\Java\jdk-1.8\bin\
+[09:47:34.019] [Java]  - JDK 18 (18.2.1)：C:\Program Files\Java\jdk-18.0.2.1\bin\
+[09:47:34.019] [Java]  - JDK 21 (21.0.1)：C:\Users\zhy\.jdks\openjdk-21.0.1\bin\
+[09:47:34.045] [Page] 实例化：清空自定义主页 UI，来源为空
+[09:47:34.053] [Skin] 载入头像成功：Loader Skin Legacy
+[09:47:34.212] [Minecraft] 从版本 jar 中的 version.json 获取到版本号：1.20.6
+[09:47:34.229] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[09:47:34.230] [Loader] 加载器 PCL 服务 状态改变：Loading
+[09:47:34.231] [Server] 正在连接到 PCL 服务器
+[09:47:34.236] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[09:47:34.242] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1721785654-04ba2d33-0-f7481dce5293710776e4341c4f0d7f56，超时 10000ms
+[09:47:34.340] [Minecraft] 从版本 jar 中的 version.json 获取到版本号：1.21
+[09:47:34.346] [Minecraft] 无法完全确认 MC 版本号的版本：1.21-pre4
+[09:47:34.406] [Server] 服务器公告：145|331|332|5，无需更新
+[09:47:34.410] [Server] 重要等级 0，更新公告 True
+[09:47:34.411] [System] 更新已开始，静默：True
+[09:47:34.412] [Loader] 加载器 PCL 服务 状态改变：Finished
+[09:47:34.417] [Loader] 加载器 启动器更新 状态改变：Loading
+[09:47:34.422] [Loader] 加载器 下载更新文件 状态改变：Loading
+[09:47:34.476] [Minecraft] 从版本 jar 中的 version.json 获取到版本号：1.21-rc1
+[09:47:34.481] [Minecraft] 无法完全确认 MC 版本号的版本：18w21b
+[09:47:34.491] [Download] Update.zip 84#：开始，起始点 0，https://github.com/Hex-Dragon/PCL2/raw/main/%E6%9C%80%E6%96%B0%E6%AD%A3%E5%BC%8F%E7%89%88.zip
+[09:47:34.494] [Minecraft] 无法完全确认 MC 版本号的版本：24w20a
+[09:47:34.502] [Minecraft] 无法完全确认 MC 版本号的版本：24w21b
+[09:47:34.517] [Setup] 当前选择的 Minecraft 版本：1.19.2-Forge_43.2.17
+[09:47:34.517] [Minecraft] 选择该文件夹储存的 Minecraft 版本：C:\Users\zhy\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.17\
+[09:47:34.517] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[09:47:34.517] [Minecraft] 启动按钮：正在加载 Minecraft 版本
+[09:47:34.528] [Launch] 自动选择 Minecraft 版本：C:\Users\zhy\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.17\
+[09:47:34.528] [Minecraft] 启动按钮：Minecraft 版本：C:\Users\zhy\AppData\Roaming\.minecraft\versions\1.19.2-Forge_43.2.17\
+[09:47:34.533] [Loader] 加载器 登录 状态改变：Loading
+[09:47:34.537] [Launch] 登录加载已开始
+[09:47:34.538] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[09:47:34.539] [Launch] 登录方式：离线（sea）
+[09:47:34.540] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[09:47:34.558] [Launch] 登录加载已结束
+[09:47:34.558] [Loader] 加载器 登录 状态改变：Finished
+[09:47:34.653] [System] DPI：144，系统版本：10.0.22631.0，PCL 位置：D:\azhy\mcModDesign\MyModPack\1.19\SeaBitCoin\pcl2\Plain Craft Launcher 2.exe
+[09:47:34.772] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[09:47:35.427] [Download] Update.zip 84#：出错，未能解析此远程名称: 'raw.githubusercontent.com'
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.WebException
+[09:47:35.427] [Download] Update.zip 84#：下载源被禁用（0）：https://github.com/Hex-Dragon/PCL2/raw/main/%E6%9C%80%E6%96%B0%E6%AD%A3%E5%BC%8F%E7%89%88.zip
+[09:47:35.429] 下载源 0 已被禁用：未能解析此远程名称: 'raw.githubusercontent.com'
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.WebException
+[09:47:35.432] [Download] Update.zip 97#：开始，起始点 0，https://gitcode.net/LTCat_/pcl2/-/raw/master/%E6%9C%80%E6%96%B0%E6%AD%A3%E5%BC%8F%E7%89%88.zip?inline=false
+[09:47:35.641] [Download] Update.zip 97#：文件大小 2149020（2.05 M）
+[09:47:35.655] [Control] 按下单选按钮：正版
+[09:47:35.762] [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[09:47:35.767] [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[09:47:35.769] [Skin] 载入头像成功：Loader Skin Ms
+[09:47:36.360] [Control] 按下单选按钮：离线
+[09:47:36.772] [Download] 速度下限已提升到 276 K
+[09:47:36.843] [Control] 按下单选按钮：下载
+[09:47:36.948] [Loader] 加载器 DlClientList Main 状态改变：Loading
+[09:47:36.961] [Loader] 加载器 DlClientList Bmclapi 状态改变：Loading
+[09:47:36.962] [Download] 速度下限已提升到 277 K
+[09:47:36.962] [Loader] 加载器 DlClientList Mojang 状态改变：Waiting
+[09:47:36.963] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[09:47:36.965] [Control] 切换主要页面：Download, -1
+[09:47:37.013] [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[09:47:37.017] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[09:47:37.024] [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[09:47:37.025] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Loading
+[09:47:37.029] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/optifine/versionList，超时 10000ms，要求 json
+[09:47:37.030] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Loading
+[09:47:37.035] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Loading
+[09:47:37.036] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/maven/com/mumfrey/liteloader/versions.json，超时 10000ms，要求 json
+[09:47:37.038] [Net] 获取网络结果：https://bmclapi2.bangbang93.com/fabric-meta/v2/versions，超时 10000ms，要求 json
+[09:47:37.046] [Download] 刷新 Forge 推荐版本缓存开始
+[09:47:37.047] [Loader] 加载器 源码获取 204# 状态改变：Loading
+[09:47:37.055] [Download] 速度下限已提升到 293 K
+[09:47:37.055] [Download] -1798645995_203 211#：开始，起始点 0，https://bmclapi2.bangbang93.com/forge/promos
+[09:47:37.119] [Loader] 加载器 DlOptiFineList Bmclapi 状态改变：Finished
+[09:47:37.129] [Download] -1798645995_203 211#：文件大小 51113（49.9 K）
+[09:47:37.136] [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[09:47:37.148] [Download] -1798645995_203：已完成，剩余文件 1
+[09:47:37.149] [Loader] 加载器 源码获取 204# 状态改变：Finished
+[09:47:37.149] [Download] 速度下限已提升到 386 K
+[09:47:37.164] [Download] 刷新 Forge 推荐版本缓存成功
+[09:47:37.224] [Loader] 加载器 DlFabricList Bmclapi 状态改变：Finished
+[09:47:37.226] [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[09:47:37.241] [Download] 速度下限已提升到 439 K
+[09:47:37.335] [Download] 速度下限已提升到 495 K
+[09:47:37.441] [Download] 速度下限已提升到 548 K
+[09:47:37.538] [Download] 速度下限已提升到 635 K
+[09:47:37.632] [Download] 速度下限已提升到 665 K
+[09:47:37.646] [Loader] 加载器 DlLiteLoaderList Bmclapi 状态改变：Finished
+[09:47:37.647] [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[09:47:37.726] [Download] 速度下限已提升到 706 K
+[09:47:37.818] [Download] 速度下限已提升到 738 K
+[09:47:37.911] [Download] 速度下限已提升到 762 K
+[09:47:38.005] [Download] 速度下限已提升到 796 K
+[09:47:38.267] [Loader] 加载器 DlClientList Bmclapi 状态改变：Finished
+[09:47:38.347] [Loader] 加载器 DlClientList Main 状态改变：Finished
+[09:47:38.999] [Download] Update.zip：已完成，剩余文件 0
+[09:47:38.999] [Loader] 加载器 下载更新文件 状态改变：Finished
+[09:47:38.999] [Loader] 加载器 安装更新 状态改变：Loading
+[09:47:39.001] [System] 无需清理目标更新文件：D:\azhy\mcModDesign\MyModPack\1.19\SeaBitCoin\pcl2\PCL\Plain Craft Launcher 2.exe
+[09:47:39.037] [System] 更新文件解压完成
+[09:47:39.037] [Loader] 加载器 安装更新 状态改变：Finished
+[09:47:39.037] [Loader] 加载器 启动器更新 状态改变：Finished
+[09:47:39.116] [Control] 按下单选按钮：启动
+[09:47:39.116] [Control] 切换主要页面：Launch, -1
+[09:47:40.813] [Control] 按下单选按钮：设置
+[09:47:40.887] [Control] 切换主要页面：Setup, -1
+[09:47:44.045] [Control] 按下图标按钮：BtnTitleClose
+[09:47:44.048] [System] 收到关闭指令
+[09:47:44.296] [System] 更新程序启动，参数：--update 43820 "Plain Craft Launcher 2.exe" "Plain Craft Launcher 2.exe" False
+[09:47:44.939] [System] 程序已退出，返回值：Success
