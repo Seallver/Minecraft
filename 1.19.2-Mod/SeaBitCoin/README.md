@@ -1,14 +1,14 @@
 # Sea比特币模组说明文档
 
-欢迎使用本模组    
-模组作者：Seallver （github仓库：https://github.com/Seallver/Minecraft）  
-模组材质包作者：soulwol （github）
+- 欢迎使用本模组    
+- 模组作者：Seallver （github仓库：https://github.com/Seallver/Minecraft）  
+- 模组材质包作者：soulwol （github）
 
 ## 版本说明
 
-模组版本 2.0  
-适用的minecraft版本 1.19.2   
-forge版本： 43.2.17
+- 模组版本 2.0  
+- 适用的minecraft版本 1.19.2   
+- forge版本： 43.2.17
 
 ## 安装方法
 
